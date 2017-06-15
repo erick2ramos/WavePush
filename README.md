@@ -1,4 +1,5 @@
-# WavePush [Download](http://globalgamejam.org/2017/games/wavepush)
+# WavePush
+[Download](http://globalgamejam.org/2017/games/wavepush)
 
 Entry for Global Game Jam 2017
 
